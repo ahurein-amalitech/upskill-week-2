@@ -1,0 +1,33 @@
+target/
+*.class
+
+# IDE / Build tool specific files
+.idea/
+.eclipse/
+.classpath
+.project
+
+# OS specific temporary files
+*.tmp
+*.log
+*.pid
+
+# Documentation
+*.md
+doc/
+
+# Generated test reports
+**/test-results/
+
+# Common VCS annoyance
+thumbs.db
+*.DS_Store
+
+# Local configuration
+.env
+*.local
+
+# Additional patterns
+**/build/
+**/bin/
+**/vendor/
