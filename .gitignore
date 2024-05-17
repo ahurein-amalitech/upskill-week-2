@@ -13,7 +13,6 @@ target/
 *.pid
 
 # Documentation
-*.md
 doc/
 
 # Generated test reports
